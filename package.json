@@ -1,0 +1,20 @@
+{
+  "name": "vsys-himoney-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Tien1990",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "mongodb": "^3.2.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
